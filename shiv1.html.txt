@@ -7,7 +7,8 @@
 
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-<p>code added in it branch 1 </p>
+<p>code added from cloning branch folder </p>
+
 
 </body>
 </html>
