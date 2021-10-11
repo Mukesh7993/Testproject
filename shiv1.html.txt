@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>branch 1 commited </title>
+<title>branch 1 titlechange </title>
 </head>
 <body>
 
 <h1>My First Heading</h1>
-<<<<<<< HEAD
 <p>My first paragraph. code added</p>
-=======
 <p>My first paragraph.</p>
 <p>code added in it branch 1 </p>
->>>>>>> aef11ea1f94d6074de23302c09d7b5645fb7f7e1
 
 </body>
 </html>
